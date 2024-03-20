@@ -19,6 +19,7 @@ Initial Model:
 
 
 Optimisation 1:
+
 Attempt - 1
 - 4 hidden layers
 - 80, 30, 30 and 30 nodes
